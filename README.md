@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 1
-- **Easy:** 1 🟢
+- **Total Problems Solved:** 2
+- **Easy:** 2 🟢
 - **Medium:** 0 🟡
 - **Hard:** 0 🔴
 
@@ -13,6 +13,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 | Problem | Difficulty | Language | Date |
 |---------|-----------|----------|------|
+| [868. Binary Gap](https://leetcode.com/problems/binary-gap/description/?envType=daily-question&envId=2026-02-22) | 🟢 Easy | python3 | 2026-02-22 |
 | [868. Binary Gap](https://leetcode.com/problems/binary-gap/description/?envType=daily-question&envId=2026-02-22) | 🟢 Easy | python3 | 2026-02-22 |
 
 ---
